@@ -7,3 +7,4 @@
 // Create a function that takes a string as input and returns the number of vowels in the string.
 
 // Write a program that takes an array of numbers and returns the largest number in the array.
+
