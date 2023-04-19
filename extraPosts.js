@@ -34,3 +34,6 @@ const posts = [
 ];
 
 // This is the story. Jimothy, a user on a major social site is causing a lot of problems lately. He's been posting inappropriate content of ducks with umbrellas, and spreading false information about ducks in general. As a moderator of the platform, it's your job to investigate and report Jimothy's actions. The company is wanting you to list every instance of the user named Jimothy. 
+
+
+// Congratulations, you did it, you've found Jimothy's posts. Now that you've found them, create a new array to use that doesn't have Jimothy associated with it.
