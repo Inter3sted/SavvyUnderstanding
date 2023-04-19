@@ -1,5 +1,3 @@
-Great, here's an updated README.md file that incorporates the advanced array methods you provided:
-
 # DOM and Array Methods
 
 This repository contains code examples and explanations of the DOM, advanced array methods, and .filter/.map. These topics are important for students learning front-end web development.
